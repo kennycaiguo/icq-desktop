@@ -1,0 +1,3 @@
+{
+        9CFD91271786A5F400B0CB5C /* imosx-helper in Resources */ = {isa = PBXBuildFile; fileRef = 9CFD910D1786A5D500B0CB5C /* imosx-helper */; };
+}

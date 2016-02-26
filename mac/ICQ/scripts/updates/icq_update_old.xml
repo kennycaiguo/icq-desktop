@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>ICQ Changelog</title>
+      <link>http://icq.mail.ru</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>
+         <item>
+            <title>Version 1.0.0.171</title>
+            <sparkle:minimumSystemVersion>10.7.0</sparkle:minimumSystemVersion>
+                  <sparkle:releaseNotesLink>
+                     http://mra.mail.ru/icq_mac_update/release_notes_icq.html
+                  </sparkle:releaseNotesLink>
+            <pubDate>Fri, 31 May 2013 20:00:00 +0004</pubDate>
+            <enclosure url="http://mra.mail.ru/icq_mac_update/icq.dmg" sparkle:version="171" sparkle:shortVersionString="1.0.0" length="13521255" type="application/octet-stream" sparkle:dsaSignature="MCwCFC+6db2oh/S3qwlHMAV24PEq5GPWAhQjGgTAwU0sXHyD7Vxtlh999vT2vQ==" />
+         </item>
+         <item>
+            <title>Version 0.0.1.160</title>
+            <sparkle:minimumSystemVersion>10.7.0</sparkle:minimumSystemVersion>
+                  <sparkle:releaseNotesLink>
+                     http://mra.mail.ru/icq_mac_update/release_notes_icq.html
+                  </sparkle:releaseNotesLink>
+            <pubDate>Fri, 24 May 2013 17:55:00 +0004</pubDate>
+            <enclosure url="http://mra.mail.ru/icq_mac_update/icq.dmg" sparkle:version="160" sparkle:shortVersionString="0.0.1" length="13600978" type="application/octet-stream" sparkle:dsaSignature="MCwCFBROO11WJOA3tMtGexPWBKlCez7JAhRnKsKqV1f3vXLWSIPnuvtP6m3VJg==" />
+         </item>
+         <item>
+            <title>Version 0.0.1.153</title>
+            <sparkle:minimumSystemVersion>10.7.0</sparkle:minimumSystemVersion>
+                  <sparkle:releaseNotesLink>
+                     http://mra.mail.ru/icq_mac_update/release_notes_icq.html
+                  </sparkle:releaseNotesLink>
+            <pubDate>Thu, 23 May 2013 17:55:00 +0004</pubDate>
+            <enclosure url="http://mra.mail.ru/icq_mac_update/icq.dmg" sparkle:version="153" sparkle:shortVersionString="0.0.1" length="13592446" type="application/octet-stream" sparkle:dsaSignature="MC4CFQDsrALE8qHc8ZuJgvZbYdY3gBCUDQIVAPHCxqyoruwA5btmbnOenfyfprZl" />
+         </item>
+   </channel>
+</rss>

@@ -1,0 +1,4 @@
+{
+        18AA23371C1063EC00A4A5CC /* Sparkle.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 18AA23261C0F561900A4A5CC /* Sparkle.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+        18AA23381C10640F00A4A5CC /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18AA23261C0F561900A4A5CC /* Sparkle.framework */; };
+}

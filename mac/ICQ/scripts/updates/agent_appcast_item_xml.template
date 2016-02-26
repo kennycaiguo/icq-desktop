@@ -1,0 +1,15 @@
+         <item>
+            <title>Version APP_VERSION</title>
+            <sparkle:minimumSystemVersion>10.8.0</sparkle:minimumSystemVersion>
+                  <sparkle:releaseNotesLink>
+                     http://mra.mail.ru/agent_mac_update/release_notes_agent.html
+                  </sparkle:releaseNotesLink>
+                  <sparkle:releaseNotesLink xml:lang="en">
+                     http://mra.mail.ru/agent_mac_update/release_notes_agent.html
+                  </sparkle:releaseNotesLink>
+                  <sparkle:releaseNotesLink xml:lang="ru">
+                     http://mra.mail.ru/agent_mac_update/release_notes_agent_ru.html
+                  </sparkle:releaseNotesLink>
+            <pubDate>PUB_DATE</pubDate>
+            <enclosure url="http://mra.mail.ru/agent_mac_update/agent.dmg" sparkle:version="APP_VERSION" sparkle:shortVersionString="APP_FULL_VERSION_STRING" length="FILE_SIZE" type="application/octet-stream" sparkle:dsaSignature="FILE_SIGNATURE" />
+         </item>

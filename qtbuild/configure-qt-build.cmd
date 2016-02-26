@@ -1,0 +1,1 @@
+configure -prefix %CD%\qtbase -opensource -static -debug-and-release -c++11 -mp -nomake tests -nomake examples -nomake tools -target xp -platform win32-msvc2012 -make-tool jom -skip qtscript -skip qtsensors -skip qtsvg -skip qttools 
